@@ -17,7 +17,7 @@ is doing. Are we doing something productive or just wasting our time?
 The format and the proper knowledge for the profit and loss statement
 are given below:
 
-![](.//media/image1.png){width="6.5in" height="4.291666666666667in"}
+![](.//media/image1.png)
 
 You have also to include the losses of the day as we sometimes only
 refer to the profits of the day, but in reality, that is not true when
