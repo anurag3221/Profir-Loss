@@ -1,4 +1,4 @@
-# Profir-Loss
+# Profit-Loss
 **What Is a Profit and Loss (P&L) Statement?**
 ----------------------------------------------
 
